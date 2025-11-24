@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745422709981",
+    "project_id": "exoticwordl-0004d",
+    "storage_bucket": "exoticwordl-0004d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745422709981:android:c4db1007bf39d81190a734",
+        "android_client_info": {
+          "package_name": "com.example.exoticworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWb0IH5d57B3TLDitNvL4Jcf9WPclPYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
