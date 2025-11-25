@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <!--Aquí van los permisos para acceder a la cámara :O-->
+    <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-feature android:name="android.hardware.camera" android:required="false" /> <!--no entiendo muy bien esta linea pero fue la solución que me dio Android Studio-->
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
