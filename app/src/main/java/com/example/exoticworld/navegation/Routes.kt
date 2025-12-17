@@ -6,7 +6,11 @@ object Routes {
     const val CART = "cart"
     const val SETTINGS = "settings"
 
-    // Nueva ruta de detalle/categoría
+    // Ruta de detalle/categoría
     const val CATEGORY = "category/{id}"
     fun category(id: Int) = "category/$id"
+
+    // Ruta de detalle de producto
+    const val PRODUCT_DETAIL = "product/{id}"
+    fun productDetail(id: Int) = "product/$id"
 }
